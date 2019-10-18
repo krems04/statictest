@@ -1,0 +1,4 @@
+baseURL = "http://localhost:8888/hugotest/public"
+languageCode = "en-us"
+title = "Kareem New Hugo Site"
+theme = "ananke"
